@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { X, ExternalLink, Calendar, User, MapPin } from 'lucide-react';
+import { X, ExternalLink, User, MapPin } from 'lucide-react';
 import { WikipediaArticle } from '../types';
 import { wikipediaService } from '../services/wikipedia';
 
